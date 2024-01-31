@@ -19,14 +19,14 @@ SWR (pronounced "swear"), is a React Hooks library used for data fetching. It is
 
 ## Application Requirement
 
-[x] integrate the application with HoundDog's REST API
-[x] call three API endpoints: GET, POST, and DELETE
-[x] use Swagger UI for additional documentation and to test fetches
-[x] use TypeScript, Next.js 14 (with the new app router), use SWR or TanStack Query
-[x] use a UI library of your choice
-[x] use Docstrings and comments
-[x] create a README that has good documentation
-[x] include documentation on how to run the application locally
+1. integrate the application with HoundDog's REST API
+2. call three API endpoints: GET, POST, and DELETE
+3. use Swagger UI for additional documentation and to test fetches
+4. use TypeScript, Next.js 14 (with the new app router), use SWR or TanStack Query
+5. use a UI library of your choice
+6.  use Docstrings and comments // not enough time sorry
+7. create a README that has good documentation
+8. include documentation on how to run the application locally
 
 ## Assumptions
 
